@@ -16,3 +16,11 @@ SAP
 Simultanously learn SAP.
 Create SAP account.
 Watch some youtube videos
+
+Complete Git today.
+Create repository
+Commit for every change
+Create a different branch based upon user.
+Merge the branches for final version.
+
+Done for today
